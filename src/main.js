@@ -1,11 +1,11 @@
 import MyButton from './MyButton.svelte';
-// import App from './App.svelte';
+import App from './App.svelte';
 
-// const app = new App({
-// 	target: document.body
-// });
+const app = new App({
+	target: document.body
+});
 
-// export default app;
+export default app;
 // Define a custom element for the MyButton component
 customElements.define('my-button', class extends HTMLElement {
   constructor() {

@@ -4,7 +4,7 @@
 </script>
 
 <button class=" bg-black p-5 btn">{label}</button>
-<p>gef</p>
+<p>gefgfdg</p>
 <h1>{message}</h1>
 
 <style>
@@ -18,6 +18,6 @@
   }
 
   .btn:hover {
-    background-color: #0056b3;
+    background-color: #b30036;
   }
 </style>
